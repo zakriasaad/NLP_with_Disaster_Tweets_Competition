@@ -14,3 +14,9 @@ Customer churn prediction allows organizations to proactively approach at-risk c
 
 ## Objectives:
 Finding the most suited machine learning model for correct classification of Churn and non churn customers.
+
+### MODEL RESULTS ON TRAINING DATA
+![ML1](https://user-images.githubusercontent.com/57452293/196788263-c555f1a4-aec8-4bbb-a756-ccbff74f94de.PNG)
+
+
+
